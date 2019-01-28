@@ -1,2 +1,4 @@
 # InternShip
-Trainng Workspace
+Training Workspace:-
+UseCase Diagram
+Class Diagram
